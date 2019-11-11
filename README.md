@@ -1,11 +1,9 @@
-## Sublime go to file plugin
+# Sublime go to file plugin
 
-#### Installation
----
+## Installation
 Clone package into sublime packages
 
-#### Key-bind
----
+## Key-bind
 ```js
 [
     {"keys": ["alt+."], "command": "go_to_file"},
