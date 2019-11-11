@@ -1,0 +1,4 @@
+[
+    {"keys": ["alt+."], "command": "go_to_file"},
+    {"keys": ["alt+shift+."], "command": "back_to_file"}
+]
